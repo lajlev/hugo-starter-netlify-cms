@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Om os!"
 ---
 
-Here's a bit about me.
+Her er noget om dem
